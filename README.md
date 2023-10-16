@@ -31,7 +31,7 @@ The Stakeholder - a **Car Insurance Company** - has a need to derive more value 
 - **"Outcome"** = Provides the claim status (activities) of the Client (1 = Claimed, 0 = Not Claimed).
 
 
-**Insight & Analytics:**
+**Exploratory Data Analysis - Insight & Analytics:**
 
 ![ReadMe Image](https://github.com/FoxEW/Car-Insurance-Claims/blob/main/Insurance%20Claims%20by%20Driving%20Experience.png?raw=true)
 
