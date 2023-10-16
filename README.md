@@ -17,6 +17,9 @@
 
 **Data Source:**
 
+- Car Insurance Data Set - from Kaggle
+- https://www.kaggle.com/datasets/sagnik1511/car-insurance-data
+
 **Data Description:**
 
 **Insight & Analytics:**
