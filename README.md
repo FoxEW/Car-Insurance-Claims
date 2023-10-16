@@ -44,6 +44,19 @@ The Stakeholder - a **Car Insurance Company** - has a need to derive more value 
 
 **Model preference & supporting metrics:**
 
-This model can assist the Stakeholder to identify and understand the  ....
-A description of how well your model would solve your business problem ...
-2 x recommendations to Stakeholders ...
+The recommended model is the - Logistic Regression Model - using Principal Component Analysis (PCA).
+This model can assist the Stakeholder to identify and understand metrics that contributes to higher claim activities from Client segments; e.g. :
+- Client Driver Experience (years)
+- Client Age Category (age group)
+- etc, ...
+
+**Specific recommendations to the Stakeholders - as per model findings:**
+- Management of claims & costing of insurance products (premiums) can be optimized by taking note of events that increase claim (accident) incidents; e.g. :
+  - Speeding drive styles by Clients 
+  - Clients with limited years of Driving Experience
+  - Clients that fall in younger age groups
+  - Client with lower income levels, etc.
+- The Insurance Company can also potentially increase profits (reduce claims) by expanding the below segments of their current Client base:
+ - Clients with 20+ years driving experience
+ - Clients of 40+ years of age, etc.
+
