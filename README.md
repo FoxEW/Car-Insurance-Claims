@@ -1,7 +1,6 @@
-#** Car Insurance Claims:**
+# **Car Insurance Claims:**
 
-
-![ReadMe Image] (https://github.com/FoxEW/Car-Insurance-Claims/blob/main/Car_Insurance.jpg?raw=true)
+![ReadMe Image](https://github.com/FoxEW/Car-Insurance-Claims/blob/main/Car_Insurance.jpg?raw=true)
 
 
 **Author:** Eric
