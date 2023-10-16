@@ -67,4 +67,5 @@ This model can assist the Stakeholder to identify and understand metrics that co
 - The Insurance Company can also potentially increase profits (reduce claims) by expanding the below segments of their current Client base:
   
   - Clients with 20+ years driving experience
-  - Clients of 40+ years of age, etc.
+  - Clients of 40+ years of age
+  - etc, ...
