@@ -23,7 +23,9 @@
 
 
 **Data Description:**
-A **Car Insurance Company** has a need to derive more value from available insurance & claims related data.
+
+The Stakeholder - a **Car Insurance Company** - has a need to derive more value from available insurance & claims related data.
+
 - The data set consists of 10,000 rows of data - detailing 19 features re. Client & Insurance related events.
 - Granularity of data: On a record level - each row provides details of a client's insurance related activities.
 - **"Outcome"** = Provides the claim status (activities) of the Client (1 = Claimed, 0 = Not Claimed).
