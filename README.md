@@ -33,7 +33,14 @@ The Stakeholder - a **Car Insurance Company** - has a need to derive more value 
 
 **Insight & Analytics:**
 
+![ReadMe Image](https://github.com/FoxEW/Car-Insurance-Claims/blob/main/Insurance%20Claims%20by%20Driving%20Experience.png?raw=true)
 
+- Claims are reduced by Clients with more ```Years of Driving Experience```; e.g. 20-29 year & 30+ year groups. 
+- Claims are more likely to occur in the group where Clients have ```0-9 years of Driving Experience```.
+
+![ReadMe Image](https://github.com/FoxEW/Car-Insurance-Claims/blob/main/Insurance%20Claims%20by%20Age%20Group.png?raw=true)
+
+- ```Insurance Claims``` are the highest in the ```Age Group``` 16-25 year and much lower in the 65+ year group.
 
 **Model preference & supporting metrics:**
 
